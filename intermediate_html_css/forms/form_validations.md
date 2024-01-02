@@ -44,7 +44,7 @@ To add the minimum length validation, we give the form control a `minlength` att
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-Try entering less than three chars into the text area and clicking the tweet button to see the validation in action.
+Try entering less than three characters into the text area and clicking the tweet button to see the validation in action.
 
 #### Maximum length validation
 
